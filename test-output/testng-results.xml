@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8607" started-at="2019-01-07T06:36:47Z" finished-at="2019-01-07T06:36:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8607" started-at="2019-01-07T06:36:47Z" finished-at="2019-01-07T06:36:55Z">
+      <class name="extent.ExtentReportWithScreenShot">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:extent.ExtentReportWithScreenShot@1d057a39]" name="beforetest" is-config="true" duration-ms="3175" started-at="2019-01-07T06:36:47Z" finished-at="2019-01-07T06:36:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:extent.ExtentReportWithScreenShot@1d057a39]" name="beforemethod" is-config="true" duration-ms="75" started-at="2019-01-07T06:36:50Z" finished-at="2019-01-07T06:36:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="testcase()[pri:0, instance:extent.ExtentReportWithScreenShot@1d057a39]" name="testcase" duration-ms="4150" started-at="2019-01-07T06:36:50Z" finished-at="2019-01-07T06:36:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:extent.ExtentReportWithScreenShot@1d057a39]" name="aftertest" is-config="true" duration-ms="1193" started-at="2019-01-07T06:36:54Z" finished-at="2019-01-07T06:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- extent.ExtentReportWithScreenShot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
